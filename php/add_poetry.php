@@ -15,4 +15,15 @@ if($conn -> connect_error) {
     die("connection failed: ".$conn -> connect_error);
 }
 
+
+// ***********************Making a request **********************
+
+$POETRY = $_POST['poetry'];
+
+// POETRY is the variable name 
+// $_POST is the method name
+
+$POET_NAME = $_POST['poet_name'];
+
+
 ?>

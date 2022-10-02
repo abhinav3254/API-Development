@@ -1,0 +1,24 @@
+{
+  "name": "mern-backend",
+  "version": "1.0.0",
+  "description": "This is the complete front-end to back-end tutorial where we are going to make a front and connect it with mongoDB and store the form data in the backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinav3254/API-Development.git"
+  },
+  "author": "Abhinav Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinav3254/API-Development/issues"
+  },
+  "homepage": "https://github.com/abhinav3254/API-Development#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.6.3"
+  }
+}
